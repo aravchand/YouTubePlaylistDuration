@@ -5,5 +5,6 @@ This will require usage of YT API, Google Chrome Extension, and Python + HTML/CS
 
 First, I needed to get to get down basic usage of the YT API, so I decided to make this learning program in Python.
 In Python, I made the main functionality of the program: Requesting from the API, analyzing and interpreting its Responses, and totalling the durations of the videos in a given playlist. To make this program more usable, I made a continuous loop allowing the user to find the total time of as many playlists as they please, inputting through terminal.
+This is available in `yt_duration.py`.
 
-Next, I will implement this into a Google Chrome Extension. This will use HTML/CS/JS and specific Extension concepts.
+Next, I will implement this into a Google Chrome Extension. This will use HTML/CS/JS and specific Chrome Extension concepts.
